@@ -1,0 +1,3 @@
+﻿experiment,test_videos,test_loss,accuracy_pct,macro_precision_pct,macro_recall_pct,macro_f1_pct
+CNN + LSTM (Baseline),276,1.2144,59.66,65.35,57.91,57.90
+CNN + LSTM (Tuned),276,1.4735607585,46.0145,44.1379,43.5729,41.5642

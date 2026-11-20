@@ -1,0 +1,5 @@
+model,test_videos,accuracy_mean_pct,accuracy_sd_pp,macro_precision_mean_pct,macro_precision_sd_pp,macro_recall_mean_pct,macro_recall_sd_pp,macro_f1_mean_pct,macro_f1_sd_pp,test_loss_mean,test_loss_sd
+CNN + LSTM,276,59.66,2.41,65.35,4.47,57.91,2.26,57.90,3.68,1.2144,0.0343
+ResNet18 + LSTM,276,93.72,0.75,93.67,0.78,93.07,0.73,93.19,0.71,0.2308,0.0116
+ResNet18 + Transformer,276,91.43,1.23,92.02,1.27,91.25,1.26,91.27,1.36,0.2988,0.0236
+Majority Class Baseline,276,15.58,,2.23,,14.29,,3.85,,,

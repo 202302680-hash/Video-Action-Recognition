@@ -1,0 +1,10 @@
+﻿model,seed,total_samples,correct_predictions,errors,accuracy_pct,error_rate_pct
+CNN_LSTM,42,276,174,102,63.04,36.96
+CNN_LSTM,43,276,161,115,58.33,41.67
+CNN_LSTM,44,276,159,117,57.61,42.39
+ResNet18_LSTM,42,276,256,20,92.75,7.25
+ResNet18_LSTM,43,276,261,15,94.57,5.43
+ResNet18_LSTM,44,276,259,17,93.84,6.16
+ResNet18_Transformer,42,276,257,19,93.12,6.88
+ResNet18_Transformer,43,276,251,25,90.94,9.06
+ResNet18_Transformer,44,276,249,27,90.22,9.78

@@ -1,0 +1,5 @@
+model,total_parameters,trainable_parameters,checkpoint_size_mib,inference_ms_per_video,throughput_videos_per_second,test_videos,batch_size,benchmark_repeats,warmup_batches,device
+CNN + LSTM,226695,226695,0.875,1.8758,533.113,276,2,3,5,NVIDIA GeForce RTX 3060 Laptop GPU
+ResNet18 + LSTM,11506119,329607,43.9707,3.2196,310.6014,276,2,3,5,NVIDIA GeForce RTX 3060 Laptop GPU
+ResNet18 + Transformer,13292103,2115591,50.7904,3.2488,307.8081,276,2,3,5,NVIDIA GeForce RTX 3060 Laptop GPU
+ResNet18 + Mean Pooling,11181127,4615,42.7316,3.0329,329.7156,276,2,3,5,NVIDIA GeForce RTX 3060 Laptop GPU
