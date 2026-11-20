@@ -1,0 +1,2 @@
+model,predicted_class,accuracy,macro_precision,macro_recall,macro_f1
+Majority Class Baseline,PlayingGuitar,0.15579710144927536,0.022256728778467908,0.14285714285714285,0.038513210927004035

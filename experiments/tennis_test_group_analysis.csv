@@ -1,0 +1,8 @@
+group,total,correct,incorrect,recall,errors
+01,7,0,7,0.0,SoccerJuggling: 5; Biking: 2
+02,7,0,7,0.0,Biking: 6; Basketball: 1
+03,7,2,5,0.2857,SoccerJuggling: 3; Biking: 1; CricketBowling: 1
+04,7,7,0,1.0,
+05,7,7,0,1.0,
+06,7,3,4,0.4286,Basketball: 4
+07,7,0,7,0.0,Biking: 5; Diving: 1; Basketball: 1

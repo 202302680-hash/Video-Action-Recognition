@@ -1,0 +1,8 @@
+Actual/Predicted,ApplyEyeMakeup,Biking,CliffDiving,Diving,PlayingGuitar,PlayingViolin,SoccerJuggling
+ApplyEyeMakeup,40,0,0,0,0,4,0
+Biking,1,25,3,0,0,0,9
+CliffDiving,1,4,19,2,1,3,9
+Diving,0,2,1,38,0,0,4
+PlayingGuitar,14,14,0,0,11,4,0
+PlayingViolin,11,4,0,0,2,11,0
+SoccerJuggling,1,14,5,4,0,0,15

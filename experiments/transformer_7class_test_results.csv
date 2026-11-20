@@ -1,0 +1,7 @@
+metric,value
+test_videos,276
+test_loss,0.3386801417134162
+accuracy,0.9021739130434783
+macro_precision,0.90967477900251
+macro_recall,0.9007607185610335
+macro_f1,0.8998741610159081

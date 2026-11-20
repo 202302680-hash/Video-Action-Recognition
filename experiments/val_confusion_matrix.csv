@@ -1,0 +1,11 @@
+Actual / Predicted,ApplyEyeMakeup,Basketball,Biking,CliffDiving,CricketBowling,Diving,PlayingGuitar,PlayingViolin,SoccerJuggling,TennisSwing
+ApplyEyeMakeup,22,0,0,0,0,0,0,0,0,0
+Basketball,0,10,1,1,0,0,0,0,13,0
+Biking,0,0,14,4,0,0,0,0,0,1
+CliffDiving,0,0,0,19,0,0,0,0,0,0
+CricketBowling,0,2,2,0,21,0,0,0,0,0
+Diving,0,0,0,0,0,21,0,0,0,0
+PlayingGuitar,1,0,0,0,0,0,19,0,0,0
+PlayingViolin,0,0,0,0,0,0,0,16,0,0
+SoccerJuggling,0,11,1,0,0,0,0,0,13,0
+TennisSwing,0,0,0,0,0,0,0,0,0,26

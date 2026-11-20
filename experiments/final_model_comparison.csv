@@ -1,0 +1,5 @@
+model,test_loss,accuracy,macro_precision,macro_recall,macro_f1
+ResNet18 + LSTM,0.2349,0.9275,0.9256,0.9217,0.9227
+ResNet18 + Transformer (Original),,0.9,0.91,0.9,0.9
+ResNet18 + Transformer (Improved),0.2661,0.9312,0.9372,0.9299,0.9312
+Majority Class Baseline,,0.1558,0.0223,0.1429,0.0385
