@@ -88,3 +88,11 @@ Upload a video to view the predicted action class and confidence scores.
 - The demo uses the trained 7-class ResNet18 + LSTM checkpoint.
 - Checkpoint files must remain in the expected `checkpoints/` directory.
 - The dataset is not distributed with this project.
+
+## Model Checkpoints
+
+The trained model checkpoint is available on Google Drive:
+
+- **ResNet Mean Pool Ablation Checkpoint (42.73 MB):** [Download Checkpoint](https://drive.google.com/file/d/1VH6DJbCmpO0ygM1iApkxh5WX_H_ClVg4/view?usp=drive_link)
+
+The checkpoint is shared with the project TAs.
